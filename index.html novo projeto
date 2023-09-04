@@ -1,13 +1,20 @@
-<!DOCTYPE html>
-<html>
-
-<head> 
-    <title>Clinica saúde e bem estar</title>
+   <!DOCTYPE html>
+   <html>
+         
+<head>
+    <title>saude e bem estar</title>
     <meta charset="UTF-8">
-    <meta name="viewport"  content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="styles.ccs">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
 </head>
 
-<body> </body>
+  <body>
+      <section class="container principal">
+          <h1>Com o combo+, você pode aproveitar a Alura+ e o Alura Língua por um preço único.</h1>
+          <img src="img/Combo.png" alt="O combo+ é a junção do Alura+ e o Alura Lingua">
+          <a href="www.alura.com.br" class="container__botão">Assine por 12x de RS 120,00</a>
+      </section>
+
+  </body>
 
 </html>
